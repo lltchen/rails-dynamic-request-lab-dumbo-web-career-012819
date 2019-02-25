@@ -15,7 +15,7 @@
 
 
 ## Instructions
-
+learn-co-curriculum
 There are three RSpec/Capybara specs in this lesson; you can find them in `spec/features/student_spec.rb`. Make sure they pass without breaking the other tests. To complete this section, all specs should pass.
 
 In this lab, you will work through the full MVC pattern by building a student management app for The Flatiron School. At a high level, you will integrate the following scenario in your application:
